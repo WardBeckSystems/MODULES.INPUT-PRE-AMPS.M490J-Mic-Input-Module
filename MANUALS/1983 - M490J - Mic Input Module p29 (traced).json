@@ -1,0 +1,102 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module.pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/4a7c6261b5e7f5c8-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 0.0, 334.6, 428.6],
+ "outlines": {
+  "line": {"rings": 1182, "straight": {"n": 10841, "mm": 17588.2}, "curved": {"n": 2726, "mm": 3994.6}},
+  "text": {"rings": 220, "straight": {"n": 2015, "mm": 2228.4}, "curved": {"n": 599, "mm": 871.1}}
+ },
+ "circles": [
+  {"c": [201.7, 295.7], "r": 5.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [96.4, 270.2], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [248.2, 232.9], "r": 5.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [96.4, 288.0], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [230.6, 341.0], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [96.3, 304.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [79.9, 352.1, 82.0, 367.9], "w": 2.2, "h": 15.8, "from": "ring"},
+  {"mm": [98.7, 352.1, 101.0, 367.9], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [111.2, 352.1, 113.6, 367.9], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [117.4, 352.1, 120.0, 367.9], "w": 2.6, "h": 15.8, "from": "ring"},
+  {"mm": [136.4, 352.1, 139.0, 367.9], "w": 2.6, "h": 15.8, "from": "ring"},
+  {"mm": [142.7, 352.1, 145.1, 367.9], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [155.2, 352.0, 157.4, 367.9], "w": 2.2, "h": 15.9, "from": "ring"},
+  {"mm": [180.1, 352.1, 182.2, 367.9], "w": 2.2, "h": 15.8, "from": "ring"},
+  {"mm": [149.0, 352.0, 151.1, 367.7], "w": 2.2, "h": 15.7, "from": "ring"},
+  {"mm": [167.5, 351.9, 169.9, 367.7], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [126.7, 352.3, 129.5, 367.5], "w": 2.8, "h": 15.1, "from": "ring"},
+  {"mm": [91.3, 333.3, 93.9, 335.5], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [190.3, 322.8, 192.8, 324.9], "w": 2.5, "h": 2.2, "from": "ring"},
+  {"mm": [175.1, 274.0, 177.5, 276.1], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [104.1, 245.0, 106.2, 247.2], "w": 2.2, "h": 2.2, "from": "ring"},
+  {"mm": [57.2, 224.5, 64.2, 231.7], "w": 7.0, "h": 7.1, "from": "ring"},
+  {"mm": [175.1, 222.2, 177.7, 224.3], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [57.0, 213.3, 64.2, 218.9], "w": 7.2, "h": 5.6, "from": "ring"},
+  {"mm": [196.4, 187.4, 202.3, 191.9], "w": 5.9, "h": 4.5, "from": "ring"},
+  {"mm": [204.9, 187.4, 210.9, 191.9], "w": 6.0, "h": 4.5, "from": "ring"},
+  {"mm": [231.2, 187.6, 237.7, 191.9], "w": 6.5, "h": 4.3, "from": "ring"},
+  {"mm": [275.1, 44.0, 323.4, 48.4], "w": 48.4, "h": 4.4, "from": "ring"},
+  {"mm": [254.8, 44.0, 264.0, 48.3], "w": 9.3, "h": 4.3, "from": "ring"},
+  {"mm": [229.9, 29.8, 332.9, 43.0], "w": 103.0, "h": 13.2, "from": "ring", "words": ["WBS", "Mard Brd Ertery"]},
+  {"mm": [254.6, 9.7, 332.9, 29.4], "w": 78.3, "h": 19.7, "from": "ring", "words": ["M490)", "Mic Imeui Module", "compoiht[Atovi"]},
+  {"mm": [229.9, 9.6, 253.9, 13.8], "w": 24.0, "h": 4.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [16.4, 337.5, 47.5, 345.4], "text": "GEM"},
+   {"mm": [71.2, 338.1, 94.3, 346.0], "text": "37 43"},
+   {"mm": [19.9, 288.9, 88.7, 322.7], "text": "0#d Dati"},
+   {"mm": [244.6, 313.1, 255.0, 322.7], "text": "93"},
+   {"mm": [0.0, 268.8, 69.7, 293.5], "text": "WN #4"},
+   {"mm": [233.4, 253.3, 245.3, 265.2], "text": "Ta"},
+   {"mm": [92.8, 44.3, 136.7, 51.5], "text": "COMPCNENT"},
+   {"mm": [140.6, 44.3, 159.8, 52.2], "text": "SQE"},
+   {"mm": [289.5, 48.1, 304.6, 53.7], "text": "#y5"},
+   {"mm": [254.5, 42.5, 275.3, 48.0], "text": "CODid"},
+   {"mm": [235.3, 32.2, 325.4, 39.4], "text": "WBS Mard Brd Ertery"},
+   {"mm": [240.1, 23.5, 250.4, 29.1], "text": "TZ"},
+   {"mm": [289.5, 21.2, 305.5, 26.7], "text": "M490)"},
+   {"mm": [272.9, 15.5, 318.2, 22.0], "text": "Mic Imeui Module"},
+   {"mm": [269.7, 9.9, 319.7, 15.4], "text": "compoiht[Atovi"},
+   {"mm": [274.4, 0.4, 305.5, 5.9], "text": "490 - 06 =022"}
+  ]
+ },
+ "dots": [
+  {"c": [255.5, 340.4], "r": 0.9, "lines": 0},
+  {"c": [183.5, 337.5], "r": 1.0, "lines": 0},
+  {"c": [96.4, 286.2], "r": 1.5, "lines": 0},
+  {"c": [105.1, 253.2], "r": 1.3, "lines": 0},
+  {"c": [96.2, 250.1], "r": 1.5, "lines": 0},
+  {"c": [248.7, 230.9], "r": 1.5, "lines": 0},
+  {"c": [206.4, 218.3], "r": 1.1, "lines": 0},
+  {"c": [214.2, 148.5], "r": 1.6, "lines": 0},
+  {"c": [99.6, 48.4], "r": 1.1, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–429 mm up",
+  "- **Outlines:** line 1,182 rings, 10,841 straight (17,588 mm) / 2,726 curved (3,995 mm); text 220 rings, 2,015 straight (2,228 mm) / 599 curved (871 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 5.8 @ (201.7, 295.7), r 5.5 @ (96.4, 270.2), r 5.3 @ (248.2, 232.9), r 5.1 @ (96.4, 288.0)",
+  "- **Closed boxes:** 26; named: WBS Mard Brd Ertery; M490) Mic Imeui Module compoiht[Atovi",
+  "- **Dots (junctions):** 9",
+  "- **Words (OCR):** 19 in 16 lines: GEM · 37 43 · 0#d Dati · 93 · WN #4 · Ta · COMPCNENT · SQE · #y5 · CODid · WBS Mard Brd Ertery · TZ"
+ ]
+}

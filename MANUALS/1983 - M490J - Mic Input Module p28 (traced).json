@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module.pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/4a7c6261b5e7f5c8-p28.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1565, 2000],
+  "mm": [337.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 0.4, 337.9, 431.4],
+ "outlines": {
+  "line": {"rings": 999, "straight": {"n": 9261, "mm": 14990.4}, "curved": {"n": 2333, "mm": 3465.6}},
+  "text": {"rings": 19, "straight": {"n": 145, "mm": 165.2}, "curved": {"n": 35, "mm": 50.7}}
+ },
+ "circles": [
+  {"c": [177.8, 195.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [106.8, 342.9], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [279.4, 342.3], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [172.7, 153.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [150.5, 152.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [249.9, 156.1], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [133.0, 354.5, 135.6, 370.1], "w": 2.6, "h": 15.6, "from": "ring"},
+  {"mm": [170.6, 354.5, 172.9, 370.1], "w": 2.4, "h": 15.5, "from": "ring"},
+  {"mm": [173.8, 354.4, 176.0, 370.1], "w": 2.2, "h": 15.7, "from": "ring"},
+  {"mm": [180.1, 354.5, 182.2, 370.1], "w": 2.2, "h": 15.5, "from": "ring"},
+  {"mm": [76.9, 250.7, 117.8, 315.9], "w": 40.9, "h": 65.2, "from": "ring"},
+  {"mm": [315.9, 281.7, 318.5, 285.9], "w": 2.6, "h": 4.1, "from": "ring"},
+  {"mm": [289.1, 218.5, 292.3, 220.6], "w": 3.2, "h": 2.2, "from": "ring"},
+  {"mm": [218.1, 212.9, 220.6, 215.0], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [200.8, 136.6, 225.8, 196.7], "w": 25.0, "h": 60.1, "from": "ring"},
+  {"mm": [240.3, 136.0, 265.1, 173.8], "w": 24.8, "h": 37.8, "from": "ring"},
+  {"mm": [221.7, 158.5, 224.1, 160.6], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [149.4, 137.7, 152.6, 147.0], "w": 3.2, "h": 9.3, "from": "ring"},
+  {"mm": [114.9, 128.9, 130.0, 135.8], "w": 15.1, "h": 6.9, "from": "ring"},
+  {"mm": [82.0, 108.2, 108.0, 116.2], "w": 25.9, "h": 8.0, "from": "ring"},
+  {"mm": [148.3, 107.8, 174.2, 115.7], "w": 25.9, "h": 7.9, "from": "ring"}
+ ],
+ "text": {"words": 1, "lines": [{"mm": [296.6, 338.5, 320.4, 346.0], "text": "Lii-L"}]},
+ "dots": [
+  {"c": [208.9, 339.0], "r": 1.3, "lines": 0},
+  {"c": [313.7, 279.2], "r": 1.3, "lines": 0},
+  {"c": [100.0, 201.2], "r": 0.7, "lines": 0},
+  {"c": [127.4, 196.4], "r": 0.7, "lines": 0},
+  {"c": [90.3, 188.6], "r": 0.7, "lines": 0},
+  {"c": [127.4, 182.4], "r": 0.7, "lines": 0},
+  {"c": [223.2, 178.2], "r": 1.4, "lines": 0},
+  {"c": [127.4, 170.1], "r": 0.7, "lines": 0},
+  {"c": [156.4, 144.4], "r": 0.8, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1565 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–338 mm across, 0–431 mm up",
+  "- **Outlines:** line 999 rings, 9,261 straight (14,990 mm) / 2,333 curved (3,466 mm); text 19 rings, 145 straight (165 mm) / 35 curved (50.7 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 5.0 @ (177.8, 195.2), r 3.8 @ (106.8, 342.9), r 3.8 @ (279.4, 342.3), r 2.5 @ (172.7, 153.0)",
+  "- **Closed boxes:** 15",
+  "- **Dots (junctions):** 9",
+  "- **Words (OCR):** 1 in 1 lines: Lii-L"
+ ]
+}

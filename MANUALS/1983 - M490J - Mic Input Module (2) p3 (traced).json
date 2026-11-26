@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/ce65739066d724f8-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1401, 2000],
+  "mm": [302.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.8, 0.0, 302.5, 416.5],
+ "outlines": {
+  "line": {"rings": 202, "straight": {"n": 2066, "mm": 4302.1}, "curved": {"n": 490, "mm": 782.1}},
+  "text": {"rings": 280, "straight": {"n": 2061, "mm": 2311.6}, "curved": {"n": 703, "mm": 1115.6}}
+ },
+ "circles": [
+  {"c": [91.7, 312.3], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.1, 298.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 64,
+  "lines": [
+   {"mm": [65.2, 410.6, 105.8, 416.4], "text": "SYSTeMS"},
+   {"mm": [114.4, 410.4, 125.0, 416.4], "text": "TO"},
+   {"mm": [125.0, 365.1, 182.7, 370.6], "text": "TECHNICAL OATA"},
+   {"mm": [109.0, 350.8, 199.3, 356.4], "text": "MlI.9O,J MIC INPU MODULE"},
+   {"mm": [23.7, 323.4, 113.3, 328.9], "text": "Min im um load Imped ance:"},
+   {"mm": [133.6, 323.4, 164.3, 328.9], "text": "600 ohms"},
+   {"mm": [24.0, 316.3, 47.9, 321.8], "text": "Ma ><imu"},
+   {"mm": [58.7, 316.3, 72.5, 321.8], "text": "I_d"},
+   {"mm": [85.3, 316.3, 97.8, 321.8], "text": "....en"},
+   {"mm": [133.6, 316.3, 152.6, 321.8], "text": "40 mA"},
+   {"mm": [37.8, 309.2, 53.8, 314.7], "text": "imum"},
+   {"mm": [74.9, 309.2, 79.7, 314.7], "text": "ly"},
+   {"mm": [99.1, 309.2, 111.0, 314.7], "text": "age"},
+   {"mm": [137.5, 309.6, 143.6, 315.1], "text": "24"},
+   {"mm": [23.5, 302.0, 90.5, 307.6], "text": "Sa ura ted co lec lor"},
+   {"mm": [24.2, 295.6, 40.2, 301.1], "text": "vo ta"},
+   {"mm": [24.0, 281.7, 85.9, 287.3], "text": "Powe ReQu ..emen"},
+   {"mm": [144.0, 281.3, 151.8, 288.5], "text": "25"},
+   {"mm": [166.2, 281.7, 186.3, 287.3], "text": "Is dc,"},
+   {"mm": [192.2, 281.7, 210.9, 287.3], "text": "40 mA"},
+   {"mm": [220.0, 281.7, 244.6, 287.3], "text": "omi al,"},
+   {"mm": [133.2, 274.6, 152.6, 280.1], "text": "80 mA"},
+   {"mm": [172.1, 274.6, 187.0, 280.1], "text": "Imum"},
+   {"mm": [141.4, 260.8, 174.7, 266.3], "text": "10 60 deg"},
+   {"mm": [192.8, 260.8, 213.1, 266.3], "text": "Ce iu"},
+   {"mm": [151.6, 247.2, 157.6, 252.7], "text": "wi"},
+   {"mm": [194.1, 247.2, 210.1, 252.7], "text": "sn hi"},
+   {"mm": [251.3, 247.2, 265.8, 252.7], "text": "deep"},
+   {"mm": [148.3, 240.1, 158.0, 245.6], "text": "mrn"},
+   {"mm": [171.0, 240.1, 195.2, 245.6], "text": "160 mrn"},
+   {"mm": [208.1, 240.1, 214.2, 245.6], "text": "16"},
+   {"mm": [249.6, 60.5, 268.6, 68.6], "text": "ps"},
+   {"mm": [239.2, 50.1, 258.9, 60.4], "text": "BS"},
+   {"mm": [218.9, 29.8, 235.5, 36.3], "text": "tp"},
+   {"mm": [212.4, 23.3, 231.4, 29.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1401 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–302 mm across, 0–416 mm up",
+  "- **Outlines:** line 202 rings, 2,066 straight (4,302 mm) / 490 curved (782 mm); text 280 rings, 2,061 straight (2,312 mm) / 703 curved (1,116 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.8 @ (91.7, 312.3), r 1.8 @ (30.1, 298.6)",
+  "- **Words (OCR):** 64 in 35 lines: SYSTeMS · TO · TECHNICAL OATA · MlI.9O,J MIC INPU MODULE · Min im um load Imped ance: · 600 ohms · Ma ><imu · I_d · ....en · 40 mA · imum · ly"
+ ]
+}

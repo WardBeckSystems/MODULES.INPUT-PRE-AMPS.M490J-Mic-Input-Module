@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/ce65739066d724f8-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1387, 2000],
+  "mm": [299.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 0.9, 292.8, 414.1],
+ "outlines": {
+  "line": {"rings": 469, "straight": {"n": 3765, "mm": 6910.7}, "curved": {"n": 1066, "mm": 1670.6}},
+  "text": {"rings": 158, "straight": {"n": 1142, "mm": 1414.5}, "curved": {"n": 358, "mm": 602.9}}
+ },
+ "circles": [{"c": [74.4, 139.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [205.8, 410.4, 245.3, 416.9], "text": "~T7\"4 T 2' -"},
+   {"mm": [8.2, 408.7, 107.1, 413.7], "text": "WUAAC ARCK EYETEN"},
+   {"mm": [130.0, 361.0, 151.3, 367.5], "text": "hi"},
+   {"mm": [106.9, 349.5, 125.0, 354.6], "text": "Maedi"},
+   {"mm": [146.4, 347.8, 195.8, 354.6], "text": "ThpMT Koou_e"},
+   {"mm": [52.7, 321.7, 97.2, 328.2], "text": "descrirtich"},
+   {"mm": [232.1, 321.7, 278.1, 328.2], "text": "PiRT NukBFA"},
+   {"mm": [52.7, 308.5, 80.7, 313.6], "text": "Aeninar"},
+   {"mm": [166.2, 306.8, 190.9, 313.3], "text": "Philien"},
+   {"mm": [51.0, 140.6, 74.9, 151.3], "text": "3rtte"},
+   {"mm": [51.0, 92.8, 99.5, 102.7], "text": "Petentioneter"},
+   {"mm": [232.1, 94.6, 253.5, 101.0], "text": "10-017"},
+   {"mm": [52.7, 74.9, 80.7, 80.0], "text": "Reidion"},
+   {"mm": [220.4, 31.3, 273.1, 81.4], "text": "PJABSps ="},
+   {"mm": [164.5, 73.2, 189.1, 79.7], "text": "Fhilip:"},
+   {"mm": [52.7, 33.7, 74.1, 38.7], "text": "dean"}
+  ]
+ },
+ "dots": [{"c": [125.9, 410.0], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 300 × 432 mm, 1387 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–293 mm across, 1–414 mm up",
+  "- **Outlines:** line 469 rings, 3,765 straight (6,911 mm) / 1,066 curved (1,671 mm); text 158 rings, 1,142 straight (1,414 mm) / 358 curved (603 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (74.4, 139.0)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 20 in 16 lines: ~T7\"4 T 2' - · WUAAC ARCK EYETEN · hi · Maedi · ThpMT Koou_e · descrirtich · PiRT NukBFA · Aeninar · Philien · 3rtte · Petentioneter · 10-017"
+ ]
+}

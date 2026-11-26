@@ -1,0 +1,115 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/4a7c6261b5e7f5c8-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1548, 2000],
+  "mm": [334.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 1.9, 334.4, 430.9],
+ "outlines": {
+  "line": {"rings": 413, "straight": {"n": 5470, "mm": 10395.1}, "curved": {"n": 1150, "mm": 1665.8}},
+  "text": {"rings": 100, "straight": {"n": 968, "mm": 893.9}, "curved": {"n": 355, "mm": 483.3}}
+ },
+ "circles": [
+  {"c": [317.8, 77.7], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [317.9, 91.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [327.3, 26.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [316.1, 353.5, 326.8, 392.9], "w": 10.7, "h": 39.5, "from": "ring"},
+  {"mm": [317.6, 374.8, 325.1, 391.6], "w": 7.5, "h": 16.8, "from": "ring"},
+  {"mm": [110.8, 368.5, 206.0, 379.8], "w": 95.2, "h": 11.2, "from": "ring", "words": ["hicrophone", "iNput", "562 =", "loched", "ner"]},
+  {"mm": [180.5, 376.7, 184.2, 378.9], "w": 3.7, "h": 2.2, "from": "ring"},
+  {"mm": [317.8, 355.6, 324.9, 372.2], "w": 7.1, "h": 16.6, "from": "ring"},
+  {"mm": [315.9, 326.7, 326.5, 346.7], "w": 10.6, "h": 20.1, "from": "ring"},
+  {"mm": [317.6, 328.2, 324.7, 345.0], "w": 7.1, "h": 16.8, "from": "ring"},
+  {
+   "mm": [110.5, 330.4, 205.5, 344.6],
+   "w": 95.0,
+   "h": 14.2,
+   "from": "ring",
+   "words": ["Assichment", "Jch", "deore", "channt", "ienal", "Vel"]
+  },
+  {"mm": [109.5, 268.8, 207.3, 277.9], "w": 97.8, "h": 9.1, "from": "ring", "words": ["LEVEC", "Centroli", "contno"]},
+  {
+   "mm": [109.2, 110.1, 204.2, 127.7],
+   "w": 95.0,
+   "h": 17.5,
+   "from": "ring",
+   "words": ["ITEMUATOR", "cul", "(91", "actlon", "Ituator", "bryond", "Operallon"]
+  },
+  {
+   "mm": [108.6, 89.8, 203.6, 97.4],
+   "w": 95.0,
+   "h": 7.6,
+   "from": "ring",
+   "words": ["Wuminaled", "DS2:", "cul", "CHANNEL", "Indicale", "cue", "Jtched"]
+  },
+  {"mm": [176.8, 91.1, 180.9, 93.3], "w": 4.2, "h": 2.2, "from": "ring"},
+  {"mm": [108.6, 69.1, 203.6, 80.4], "w": 95.0, "h": 11.3, "from": "ring", "words": ["cUL", "opertiion", "Ine"]},
+  {
+   "mm": [108.8, 46.3, 203.8, 60.8],
+   "w": 95.0,
+   "h": 14.6,
+   "from": "ring",
+   "words": ["Momen(ar", "CHAMNEL", "Program", "channel", "il", "Ds}", "Iamo"]
+  }
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [312.2, 406.8, 321.5, 411.1], "text": "WBS"},
+   {"mm": [112.5, 375.9, 145.3, 379.7], "text": "hicrophone iNput"},
+   {"mm": [197.1, 375.5, 203.6, 379.3], "text": "562 ="},
+   {"mm": [147.0, 372.6, 158.3, 376.0], "text": "loched"},
+   {"mm": [115.5, 369.6, 122.0, 371.8], "text": "ner"},
+   {"mm": [133.4, 340.9, 166.5, 344.7], "text": "Assichment Jch"},
+   {"mm": [191.5, 341.6, 200.8, 343.7], "text": "deore"},
+   {"mm": [128.7, 337.0, 154.6, 340.9], "text": "channt ienal"},
+   {"mm": [149.2, 333.8, 156.3, 337.6], "text": "Vel"},
+   {"mm": [135.2, 272.2, 157.8, 276.1], "text": "LEVEC contno"},
+   {"mm": [178.8, 272.2, 192.4, 276.1], "text": "Centroli"},
+   {"mm": [312.2, 163.9, 316.9, 169.9], "text": "20"},
+   {"mm": [112.5, 123.3, 148.5, 127.1], "text": "ITEMUATOR cul (91"},
+   {"mm": [144.9, 120.0, 155.7, 123.2], "text": "actlon"},
+   {"mm": [146.2, 116.2, 176.8, 120.5], "text": "Ituator bryond"},
+   {"mm": [149.6, 113.1, 166.5, 117.0], "text": "Operallon"},
+   {"mm": [178.1, 93.5, 197.3, 97.3], "text": "Wuminaled"},
+   {"mm": [109.9, 93.1, 133.0, 96.9], "text": "cul CHANNEL"},
+   {"mm": [109.9, 89.8, 131.9, 93.7], "text": "Indicale cue"},
+   {"mm": [151.8, 93.7, 159.8, 97.1], "text": "DS2:"},
+   {"mm": [164.7, 89.8, 175.5, 93.7], "text": "Jtched"},
+   {"mm": [109.9, 76.4, 117.0, 79.8], "text": "cUL"},
+   {"mm": [133.0, 72.5, 139.0, 75.9], "text": "Ine"},
+   {"mm": [169.0, 75.8, 185.2, 79.6], "text": "opertiion"},
+   {"mm": [109.9, 56.3, 125.0, 60.2], "text": "CHAMNEL"},
+   {"mm": [160.2, 56.6, 176.6, 60.4], "text": "Momen(ar"},
+   {"mm": [151.8, 53.8, 182.2, 57.1], "text": "Program channel"},
+   {"mm": [155.7, 50.3, 163.2, 54.4], "text": "il"},
+   {"mm": [137.3, 49.9, 145.9, 53.2], "text": "Iamo"},
+   {"mm": [147.5, 49.9, 154.6, 53.7], "text": "Ds}"}
+  ]
+ },
+ "dots": [{"c": [189.9, 371.0], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1548 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–334 mm across, 2–431 mm up",
+  "- **Outlines:** line 413 rings, 5,470 straight (10,395 mm) / 1,150 curved (1,666 mm); text 100 rings, 968 straight (894 mm) / 355 curved (483 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 4.6 @ (317.8, 77.7), r 2.2 @ (317.9, 91.5), r 2.1 @ (327.3, 26.0)",
+  "- **Closed boxes:** 14; named: hicrophone iNput 562 = loched ner; Assichment Jch deore channt ienal Vel; LEVEC Centroli contno; ITEMUATOR cul (91 actlon Ituator bryond ; Wuminaled DS2: cul CHANNEL Indicale cue ; cUL opertiion Ine; Momen(ar CHAMNEL Program channel il Ds} ",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 40 in 30 lines: WBS · hicrophone iNput · 562 = · loched · ner · Assichment Jch · deore · channt ienal · Vel · LEVEC contno · Centroli · 20"
+ ]
+}

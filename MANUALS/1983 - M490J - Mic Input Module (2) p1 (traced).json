@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ce65739066d724f8-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1470, 2000],
+  "mm": [317.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.4, 5.9, 307.9, 428.3],
+ "outlines": {
+  "line": {"rings": 72, "straight": {"n": 1669, "mm": 4171.1}, "curved": {"n": 341, "mm": 453.9}},
+  "text": {"rings": 111, "straight": {"n": 1363, "mm": 1752.1}, "curved": {"n": 332, "mm": 384.0}}
+ },
+ "circles": [
+  {"c": [168.1, 244.1], "r": 5.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.3, 245.8], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [24.8, 408.1, 149.0, 425.8], "text": "['NElS] \"\"\"l:lGI\"E9.."},
+   {"mm": [170.6, 418.6, 187.8, 426.5], "text": "CK"},
+   {"mm": [210.1, 418.6, 245.0, 426.5], "text": "STEM"},
+   {"mm": [260.6, 418.2, 282.4, 426.8], "text": "LTD"},
+   {"mm": [156.5, 412.6, 163.4, 417.4], "text": "Vl!"},
+   {"mm": [228.0, 412.6, 261.0, 417.4], "text": "CINT£AOM"},
+   {"mm": [106.7, 406.1, 116.2, 410.7], "text": "TI!I."},
+   {"mm": [128.2, 406.3, 161.9, 410.6], "text": "Of:Ie =:Jgg"},
+   {"mm": [202.1, 406.1, 235.1, 410.7], "text": "T'ELE....cNE"},
+   {"mm": [250.2, 406.1, 261.2, 410.7], "text": "I4I3B"},
+   {"mm": [129.8, 235.1, 181.6, 248.5], "text": "M490J"},
+   {"mm": [119.4, 216.3, 204.7, 223.5], "text": "MIC INPUT MODULE"},
+   {"mm": [272.7, 74.1, 292.1, 82.7], "text": "ca"},
+   {"mm": [251.1, 52.5, 271.8, 63.3], "text": "BS"},
+   {"mm": [203.6, 39.7, 253.7, 45.2], "text": "MAN UAL ISSUE"},
+   {"mm": [229.9, 31.3, 247.4, 38.0], "text": "tp"},
+   {"mm": [223.0, 24.4, 242.9, 31.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1470 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–308 mm across, 6–428 mm up",
+  "- **Outlines:** line 72 rings, 1,669 straight (4,171 mm) / 341 curved (454 mm); text 111 rings, 1,363 straight (1,752 mm) / 332 curved (384 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 5.4 @ (168.1, 244.1), r 1.6 @ (157.3, 245.8)",
+  "- **Words (OCR):** 23 in 17 lines: ['NElS] \"\"\"l:lGI\"E9.. · CK · STEM · LTD · Vl! · CINT£AOM · TI!I. · Of:Ie =:Jgg · T'ELE....cNE · I4I3B · M490J · MIC INPUT MODULE"
+ ]
+}

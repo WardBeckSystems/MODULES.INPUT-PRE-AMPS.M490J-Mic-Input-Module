@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/4a7c6261b5e7f5c8-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1536, 2000],
+  "mm": [331.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 0.0, 331.7, 420.8],
+ "outlines": {
+  "line": {"rings": 330, "straight": {"n": 4267, "mm": 9038.1}, "curved": {"n": 637, "mm": 1037.0}},
+  "text": {"rings": 159, "straight": {"n": 1432, "mm": 1720.5}, "curved": {"n": 540, "mm": 920.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [271.2, 301.2, 285.2, 315.0], "w": 14.0, "h": 13.8, "from": "ring"},
+  {"mm": [303.1, 182.4, 316.9, 196.3], "w": 13.8, "h": 13.8, "from": "ring"},
+  {"mm": [186.5, 116.4, 205.1, 187.2], "w": 18.5, "h": 70.8, "from": "ring", "words": ["Pgmi", "cue", "CTL", "LoGkc"]}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [244.4, 324.9, 266.0, 331.4], "text": "FaDeR"},
+   {"mm": [241.6, 316.1, 288.7, 324.2], "text": "(-10dB) Ch ON"},
+   {"mm": [204.0, 311.3, 228.9, 319.5], "text": "Insert"},
+   {"mm": [17.7, 304.9, 57.0, 312.5], "text": "Mic Inputs"},
+   {"mm": [24.2, 297.9, 50.1, 304.9], "text": "-70/-40"},
+   {"mm": [24.8, 291.9, 50.1, 298.4], "text": "150 ohm"},
+   {"mm": [156.7, 279.6, 195.8, 287.7], "text": "sensitivity"},
+   {"mm": [166.2, 272.5, 188.3, 279.4], "text": "(Jdb)"},
+   {"mm": [29.1, 268.8, 50.1, 275.8], "text": "INput"},
+   {"mm": [22.7, 262.3, 57.2, 269.3], "text": "SELEcTor"},
+   {"mm": [24.2, 256.5, 55.5, 263.4], "text": "COMTROL"},
+   {"mm": [52.5, 239.6, 69.1, 247.3], "text": "com"},
+   {"mm": [303.3, 198.2, 316.3, 204.7], "text": "CUE"},
+   {"mm": [146.2, 173.8, 160.2, 180.8], "text": "CUE"},
+   {"mm": [58.3, 164.5, 68.4, 171.0], "text": "On"},
+   {"mm": [187.2, 163.0, 204.5, 171.2], "text": "Pgmi"},
+   {"mm": [17.5, 157.6, 51.8, 165.5], "text": "EXTERNAL"},
+   {"mm": [55.5, 153.3, 69.1, 161.0], "text": "Off"},
+   {"mm": [189.3, 153.3, 203.6, 161.4], "text": "cue"},
+   {"mm": [55.1, 142.9, 69.1, 150.6], "text": "Cue"},
+   {"mm": [190.0, 143.6, 203.6, 150.5], "text": "CTL"},
+   {"mm": [232.1, 143.6, 245.5, 150.1], "text": "CUE"},
+   {"mm": [272.5, 143.6, 294.1, 150.1], "text": "ch ON"},
+   {"mm": [186.1, 132.8, 206.0, 140.5], "text": "LoGkc"},
+   {"mm": [98.2, 132.8, 119.8, 139.3], "text": "Ch Om"},
+   {"mm": [134.3, 122.0, 160.8, 128.9], "text": "Ch off"},
+   {"mm": [32.6, 105.6, 69.3, 115.2], "text": "onIstaRT"},
+   {"mm": [23.7, 96.1, 68.4, 103.2], "text": "Timer RESET"},
+   {"mm": [32.4, 84.6, 68.7, 91.6], "text": "Off TaLLY"},
+   {"mm": [33.9, 73.0, 69.1, 81.6], "text": "Off Istop"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1536 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–332 mm across, 0–421 mm up",
+  "- **Outlines:** line 330 rings, 4,267 straight (9,038 mm) / 637 curved (1,037 mm); text 159 rings, 1,432 straight (1,720 mm) / 540 curved (920 mm)",
+  "- **Closed boxes:** 3; named: Pgmi cue CTL LoGkc",
+  "- **Words (OCR):** 34 in 30 lines: FaDeR · (-10dB) Ch ON · Insert · Mic Inputs · -70/-40 · 150 ohm · sensitivity · (Jdb) · INput · SELEcTor · COMTROL · com"
+ ]
+}

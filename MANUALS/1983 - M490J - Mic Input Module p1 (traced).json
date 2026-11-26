@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/1983 - M490J - Mic Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/4a7c6261b5e7f5c8-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1470, 2000],
+  "mm": [317.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.4, 5.9, 307.9, 428.3],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 631, "mm": 2764.4}, "curved": {"n": 67, "mm": 111.9}},
+  "text": {"rings": 166, "straight": {"n": 2234, "mm": 2805.7}, "curved": {"n": 577, "mm": 678.7}},
+  "tb": {"rings": 2, "straight": {"n": 87, "mm": 300.8}, "curved": {"n": 20, "mm": 32.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [106.7, 418.0, 284.1, 428.3], "text": "WAAD-BECK SysteMS LTD_"},
+   {"mm": [31.1, 408.3, 281.7, 424.6], "text": "WBS 641 PAOGAESs AVENLE; SCAABOAOUGH ONTARIO M1h2xa"},
+   {"mm": [105.6, 406.8, 162.1, 412.5], "text": "TeleX 085-25399"},
+   {"mm": [200.6, 406.1, 281.3, 412.6], "text": "TeLEPHONE 416'430-6550"},
+   {"mm": [128.0, 235.5, 183.9, 252.3], "text": "M49oJ"},
+   {"mm": [118.7, 216.3, 206.0, 225.2], "text": "Mic INPUT MODULE"},
+   {"mm": [202.9, 38.9, 254.1, 47.0], "text": "MANUAL ISSUE"},
+   {"mm": [202.5, 24.8, 258.4, 32.5], "text": "DECEMBER 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [24.7, 31.3, 261.9, 431.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SysteMS LTD_",
+   "WBS 641 PAOGAESs AVENLE; SCAABOAOUGH ONTARIO M1h2xa",
+   "TeleX 085-25399",
+   "TeLEPHONE 416'430-6550",
+   "M49oJ",
+   "Mic INPUT MODULE",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1470 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–308 mm across, 6–428 mm up",
+  "- **Outlines:** line 4 rings, 631 straight (2,764 mm) / 67 curved (112 mm); text 166 rings, 2,234 straight (2,806 mm) / 577 curved (679 mm); tb 2 rings, 87 straight (301 mm) / 20 curved (32.9 mm)",
+  "- **Words (OCR):** 16 in 8 lines: WAAD-BECK SysteMS LTD_ · WBS 641 PAOGAESs AVENLE; SCAABOAOUGH ONTARIO M1h2xa · TeleX 085-25399 · TeLEPHONE 416'430-6550 · M49oJ · Mic INPUT MODULE · MANUAL ISSUE · DECEMBER 1983",
+  "- **Title block:** (25, 31)–(262, 432) mm: WAAD-BECK SysteMS LTD_ · WBS 641 PAOGAESs AVENLE; SCAABOAOUGH ONTARIO M1h2xa · TeleX 085-25399 · TeLEPHONE 416'430-6550 · M49oJ · Mic INPUT MODULE · MANUAL ISSUE"
+ ]
+}
