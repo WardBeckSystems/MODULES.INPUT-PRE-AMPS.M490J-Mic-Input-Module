@@ -21,7 +21,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 45 in 39 lines: WBS · microphone · mulua · Iher · mcrodnone · Jch · depre- · channei · Iel · 7i9r · miing · deorenead
 
-Every curve, box, word and wire group: [1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA (traced).json](../MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20EAEN%20DEPREATED%20ENABIET%20PAM%20NINOL%20RISO-RISI%20CONTROLE%20IEVA%20(traced).json) (the CAD file: `1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA (traced).json](../MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20EAEN%20DEPREATED%20ENABIET%20PAM%20NINOL%20RISO-RISI%20CONTROLE%20IEVA%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA (traced).dxf`).
 
 ## Full text
 

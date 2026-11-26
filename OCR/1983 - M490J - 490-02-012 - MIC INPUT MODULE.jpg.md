@@ -24,7 +24,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Title block:** (226, 28)–(332, 52) mm: WBS · WARD-Buck Oyetemd · TR
 - **Wiring (first pass):** 197 connected wire groups from 984 runs; labelled ends: 241 mm → Rit0, 104, Qi} 2n2i02, 812; 192 mm → 2420, C4e, 10/2s, 74C76; 176 mm → Res, R7, Sk, RS-; 137 mm → Isk, Rioz, I5k, 232; 128 mm → Pi Assigh, Sw5, Pz Assi6h
 
-Every curve, box, word and wire group: [1983 - M490J - 490-02-012 - MIC INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-02-012%20-%20MIC%20INPUT%20MODULE%20(traced).json) (the CAD file: `1983 - M490J - 490-02-012 - MIC INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-02-012 - MIC INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-02-012%20-%20MIC%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-02-012 - MIC INPUT MODULE (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Words (OCR):** 31 in 28 lines: FADER · (-10dB) Ch On · Mic Inputs · -70/-40 · 150 ehm · sensitivity · INput · SELECTOR · CONTROL · Com · CUE · CUE
 - **Wiring (first pass):** 178 connected wire groups from 376 runs; labelled ends: 146 mm → (-10dB); 123 mm → Pgmi, cue, CTL; 103 mm → Pgmi, cue, CTL; 78 mm → CUE; 42 mm → sensitivity
 
-Every curve, box, word and wire group: [1983 - M490J - 490-01-010 - EXTERNAL CONTROLS OFF CUE CUE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-01-010%20-%20EXTERNAL%20CONTROLS%20OFF%20CUE%20CUE%20(traced).json) (the CAD file: `1983 - M490J - 490-01-010 - EXTERNAL CONTROLS OFF CUE CUE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-01-010 - EXTERNAL CONTROLS OFF CUE CUE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-01-010%20-%20EXTERNAL%20CONTROLS%20OFF%20CUE%20CUE%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-01-010 - EXTERNAL CONTROLS OFF CUE CUE (traced).dxf`).
 
 ## Full text
 

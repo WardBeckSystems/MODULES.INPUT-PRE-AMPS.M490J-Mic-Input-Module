@@ -23,7 +23,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Words (OCR):** 138 in 129 lines: 92i · 4put Selectoa · Ri7 · 4.7/25 · Riz · 572 · 24401 · 24440] · WBs · 60 - 12 · P?-3 € · 2u2i02
 - **Wiring (first pass):** 170 connected wire groups from 951 runs; labelled ends: 144 mm → P2-V; 143 mm → Pz - 17; 142 mm → Oh; 130 mm → p2-15, Pz - $; 104 mm → 92i, Riz
 
-Every curve, box, word and wire group: [1983 - M490J - 490-02-012 - LAST COMPOHEUT CESIGUIT (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-02-012%20-%20LAST%20COMPOHEUT%20CESIGUIT%20(traced).json) (the CAD file: `1983 - M490J - 490-02-012 - LAST COMPOHEUT CESIGUIT (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-02-012 - LAST COMPOHEUT CESIGUIT (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-02-012%20-%20LAST%20COMPOHEUT%20CESIGUIT%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-02-012 - LAST COMPOHEUT CESIGUIT (traced).dxf`).
 
 ## Full text
 

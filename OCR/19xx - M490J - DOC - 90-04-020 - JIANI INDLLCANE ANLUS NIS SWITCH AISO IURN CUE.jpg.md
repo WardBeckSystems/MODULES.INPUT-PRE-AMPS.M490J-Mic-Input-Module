@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 38 in 36 lines: V490J · PhOGHAM · approprialo · ~nppropriale · miring · Miring · PAN · FOLDUACK LEVLL · oulou · FB 2 · channei · poulad
 - **Title block:** (359, 20)–(432, 34) mm: WBS · WARD-DECk SYSTEMB
 
-Every curve, box, word and wire group: [19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE (traced).json](../MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%2090-04-020%20-%20JIANI%20INDLLCANE%20ANLUS%20NIS%20SWITCH%20AISO%20IURN%20CUE%20(traced).json) (the CAD file: `19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE (traced).json](../MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%2090-04-020%20-%20JIANI%20INDLLCANE%20ANLUS%20NIS%20SWITCH%20AISO%20IURN%20CUE%20%28traced%29.json) (the CAD file: `19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE (traced).dxf`).
 
 ## Full text
 

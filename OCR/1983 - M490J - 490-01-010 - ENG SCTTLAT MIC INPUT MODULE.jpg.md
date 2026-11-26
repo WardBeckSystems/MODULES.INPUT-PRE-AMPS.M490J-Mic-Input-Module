@@ -23,7 +23,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Title block:** (118, 4)–(337, 106) mm: REVISION · Issu DATE · App · WBS · WARD-BECK BYBTEMB · DRN: B0 85 · M49oj · ENG Scttlai · Mic INPUT MODULE · CKD: · FUNCTIONAL DIAGRAM · APP: · St · ISSUE · 490-01-010
 - **Wiring (first pass):** 69 connected wire groups from 151 runs; labelled ends: 132 mm → POST; 66 mm → FB; 61 mm → PAN, INSERT; 57 mm → FB; 47 mm → FB
 
-Every curve, box, word and wire group: [1983 - M490J - 490-01-010 - ENG SCTTLAT MIC INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-01-010%20-%20ENG%20SCTTLAT%20MIC%20INPUT%20MODULE%20(traced).json) (the CAD file: `1983 - M490J - 490-01-010 - ENG SCTTLAT MIC INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-01-010 - ENG SCTTLAT MIC INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-01-010%20-%20ENG%20SCTTLAT%20MIC%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-01-010 - ENG SCTTLAT MIC INPUT MODULE (traced).dxf`).
 
 ## Full text
 

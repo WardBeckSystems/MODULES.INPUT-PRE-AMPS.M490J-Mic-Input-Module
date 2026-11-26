@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 107 in 88 lines: 12.938 · 5.6i6 · 203 · 5.025 · 066 · 3.250 · 06g · 7OC · Other side-5 PLALES · Boc · SEE Note · RGDla
 - **Title block:** (355, 21)–(432, 37) mm: WBS WARO-BeCK sysTeMS · JR
 
-Every curve, box, word and wire group: [19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES (traced).json](../MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%20490-03-035%20-%20FREE%20FROM%20MARKS%20AND%20SCRATCHES%20(traced).json) (the CAD file: `19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES (traced).json](../MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%20490-03-035%20-%20FREE%20FROM%20MARKS%20AND%20SCRATCHES%20%28traced%29.json) (the CAD file: `19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES (traced).dxf`).
 
 ## Full text
 

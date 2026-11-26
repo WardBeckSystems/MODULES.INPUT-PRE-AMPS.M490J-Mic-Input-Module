@@ -21,7 +21,7 @@ Wiki page: [M490J](../../../../PAGES/M490J.md)
 - **Dots (junctions):** 7
 - **Words (OCR):** 35 in 32 lines: SAM · 47 31 · 747) · 1 830: · 44 · 34 · 08 · 3498. · 99 · 334 · 21 · Ta
 
-Every curve, box, word and wire group: [1983 - M490J - 490-06-022 - CQMPONENI SDE EALOAN (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-06-022%20-%20CQMPONENI%20SDE%20EALOAN%20(traced).json) (the CAD file: `1983 - M490J - 490-06-022 - CQMPONENI SDE EALOAN (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490J - 490-06-022 - CQMPONENI SDE EALOAN (traced).json](../SCHEMATICS/1983%20-%20M490J%20-%20490-06-022%20-%20CQMPONENI%20SDE%20EALOAN%20%28traced%29.json) (the CAD file: `1983 - M490J - 490-06-022 - CQMPONENI SDE EALOAN (traced).dxf`).
 
 ## Full text
 
