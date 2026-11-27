@@ -1,0 +1,124 @@
+{
+ "module": "M490J",
+ "source": {
+  "file": "MANUALS/1983 - M490J - Mic Input Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.86,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "T h.. M490J pro\"i d e s com pl e l.. mic r o p hon.. chan n.. 1 fa c i l ili.. s, incl u siv.. of asl i d.. mixing a ll..nu alor, sec ec e s.. t ecrc rand mixing bus assign m.. nl switch e s, as r.. qu i red tor a m i.dng c onsol.. input.",
+    "I n p u land P.... a m pl i fie r",
+    "T h.. mU l u ally inter lock.. d INPUT SELECTORs witches SWI and S'tI 2 <lll o w I h.. selection 0 1 one o f I wo \"\".. ila bl.. mic...o pho n.. s o u \"'c.. s. Ana d d i t ion.. 1 con l.. cl iss u p plied 10'\" control purposes on each sw ilc h.",
+    "T h.. imp e d.. n c e pr.. sen l.. d b y t h.. i n p u l t r.. n s former T t iss ubs t.. nl ia l l y higher t h.. nth.. nominal source impedance 01 150 ohms. The s..cond_.. ry of T1 i s connect e d to I h e pr eam p lif i er cons i sling 0 1 01 through 07 and Zl. Inputs en sit i v i l Y oft h.. module maybe ve r-t.. d by a dju slment oft h.. SENSITIVITY control R25, co\"..ring II range of 30 d B. The b alan c ed pr.... mpl i f i er OU l put e pp ee r s e I modu l.. conn eclor P2, pin s6/F.",
+    "Twos..ri.. s conn.. c t.. d, b a l.. n c.. dins..r l points ar.. m.. de \"\"ai lab lea l P2, pins 6 /':, 9/), 5/ E and 7/H. opera ting a t.. nom i n.. 1 1.. \".. 1 of 5 dBm. T h.. y allow I h.. ins.. r lion o fan ci l l a r y proc.. s singe Quip m.. n tin l O I h e mixing channels i g nal p a lh such as a compress o r. equ.. liz e... o r filter. The provision o f twos.....le s connector insert points p.. rm i l S the u t i l i z.. tion 0 1 lhe module ins t eeo systems such as I h e WB S mod.. 1 R I2OD /R2ODO c O<\">so l.. s • Int hes n d similar app l i cations, I h.. lun cti on s associ a t.. d with Ihe 1.. lt.. n d right Ins.. rl ion S.. lec l o rs (M 499) m.. y both b e inserted into the channel, with t h.. left chan n e 1 ins e r l l unction preceding the right channel function.",
+    "From I h ein se r t points, the signal i s rout.. d 10 ATT I, a ba l an c..d",
+    "slide allen u.. l o... fea luring os continuous mixing r.. nge 0 1 mo l''' I han",
+    "70 d B p...io r to c Ul o lI. The CUE channel feed i s l a k.. n I rom the input",
+    "side o f the all..n u at or.",
+    "Prow ' a m Channel Switch.",
+    "2 2 is a CMOS analogs witCh, s ervin gas thea c t ives witching element of the PROGRAM channel. The control voltage to operate 2 2 is derived from the logic circuitry within the module and is coupled to 21 via CR l. to switch the Channel ON, this cont roi voltage i sin the order of 10 volts. When the control voltage drops to 0 volts, the switch will be OFF, result ing ina signal attenuation o f more than 100 d B.",
+    "Following 22, int e grated cirx: ui t S 2 3 and 2 4 amplify the audios ig n alto a nominal level of 0 dBm (equ iva lent volta g e). From thea mpli fie r output, the signal is routed tot heP ROGRAM ASSIGNs witches SW4 and SWS via PANs witch SW3 and PAN Control R6S to R68.",
+    "Program Outputs",
+    "Both PROGRAM outputs PI and P2 are designed t o feed into stereo buses and each i s divided into ale ft and aright outPut. Operation o f ASSIGNMENT SWlTCHE S SW4 o r SWS wi il result ins im u l tan eo u s assignment to both left and right channels of thea p prop r i ate mi ><ing buses. With thea id o f the PAN contrOl, the signal d istr ib u t ion between the left and right output buses can b e continuously adjusted.",
+    "The CUE signal originates from abridging take o lf a t the input of the slide a lten ua tor. Owing to the high input imp e dance of the CUE channel, its operation has noe ff ec ton the main PROGRAM Channel. 25 r e pr n e n t s thea u d ios witch forth e CUE channel. Similarly [0 22, the control voltage for 2S is generated int h e logic circuit r y a s described further on. The output o f 25 is followed b y the booster amplifier 26, which int urn feeds the Cue bus mixing network At Ol through R IOlo.",
+    "Post Direct Output p s.",
+    "The outPut of booster amp li fie r 23-24 i stake n before the PANs witCh",
+    "and routed tot heP OST DIRECT output a t PI _20,21. The output level",
+    "is dBm (volt age r e: 600 ohms) under nominal conditions."
+   ]
+  },
+  {
+   "heading": "CIRCUIT OESCRIP TIO N",
+   "paragraphs": [
+    "FOldback OU l Puts",
+    "The FOLDBACK oUlpul S, like the POST O IRECT OU l put, are lake n from the booster amplifier output \" i a level cOntrols RI SO-RIS ! l FBI) and RI S2_R15J l F B2). FBI and F B 2 appear a l ccoo ecto rPI _I I, 12 and PI-13,14re sp ect ive l y.",
+    "The control vOltages required to operate the PROGRAMs witch l2 and the CUEs witch Z 5 a r\", generated with [ he aid o flog i c circuit r y utiliZing integrated c i n: u i l S Z 7 through ZIO.",
+    "Z8 i s CMOS dual f lip_f lop se r \" ing as ala tc h 10 maintain the s ttl t u s of Z2 and Z5, once they ha\"e been set toe i l her the ON or the OFF position.",
+    "A number of i n di\"idu a l inp u l functions g o \" er n the slat u s of med U1I1 flip _fl o p Z8. A description o f each input function follOws:",
+    "When power i sin i tia l l yap plied 10 lhe system, the combination of CR9, CRIO. CR II and C40 will pull down both \"c lear \" inputs of Z8 un ti i C40 i s fully charged. l hus ensuring that switChes Z 2 and Z5 are int h e OFF po s i lion.",
+    "Momentary operation of the CHANNEL ON s w i l c h SWg will produce a neg llli \"e going pulse a t Z8, pin 2 and \"c eserthe Asec tion o f Z8. AItern ali \" ely, a momentary ground closure o f the EXTERNAL CHANNEL ON con l r olin put III P2, pin N will result i n lh e same condition.",
+    "Once l h e flief lop i s \"pre sel\", its o ulput i spin 15 changes f m m 0 to I (lI.pproximll. tely 10 va ll s).",
+    "This will CauSe lhe PROGRAMs witCh Z2 10 switch ON. Fur ther",
+    "more, 012 will saturate resulting int h e CHANNEL ON ind i calo r",
+    "lamp DSJ to sw i lC hon. With 01 2 Sal u rated, the \"coot rotc o mmo n \" POl enti ala p p ell. rs a t thee millers of OIJ and 014."
+   ]
+  },
+  {
+   "heading": "M4 90J MIC INPUT MOOULE",
+   "paragraphs": [
+    "Apo sili ve base pO len li,, 1 i sap plied to either 01 3 \" n d 0 14, depending on wh e l her INPUT SELECTORs w i lCh SWI o r SW2 is depressed. Effectively, Q13 \" n d Q14 operates im i !\" r ly 10 two AND gates. The collectors o f Ih e Iwo Ir\"n sis tors represent the outputs oft h e AND gates.",
+    "They \" p pear atP 2, pin 13 and P. These le r mina ls are capable of sink ing \" maximum current of 40 mAe ach from a 24 volt source \"nd maybe used for muting purpos.....",
+    "When operating Ih e CHANNEL ON switch SW9, a separate con l\"c I i.. cl o s.. d, ace.. ss lb le \" t P2, pins 15/S. This cont ec t maybe used lor con lrol o r signaling purposes.",
+    "Pin R of P2 isis ola ted through diod.. CR 3. When conn.. ct.. din parallel with the Same o u lp u t of other modul.. s, i l prov id.. s \" convenient OR g \" te co nf i g u r\" tion, suitable to r-e set a Common timer each time a CHANNEL ON button is depressed.",
+    "Mom e n l a r y operation oft h e CHANNEL OFFs wi lc h SW8 o r mom enl \"ry ground closure of the EXTERNAL CHANNEL OFF control input e t P2, pin 12 will result in 5 n e ga nve going pulse a t ZS, pin 3 and \"cl e a r\" theA ~ 'Sec lion o f ZS, producing 01.'01 15 \" t Z8, pin 15. Consequ e n lly, Z2 wills witch OFF, 0 12 will SlOP con d UCl ing, causing OS3 10 e Xll n g u ish, and the muting con lrol outputs atP 2, pins 13 and P will b e dis \"b led.",
+    "A sep ara te cont act is a v \" ila b leon SWS and Is access ib le at P2, pins 17/ U.",
+    "A separate CHANNEL OFF 1\"ll y lamp is bu ill i n lo SWS \"nd i s connected to P2, pins IS / V.",
+    "The B~ sec lion of ZS Is used to control Ih e solids l\" le cue",
+    "s wi l c h 2 5. The flip _f lop will changes tate each time a",
+    "negative going trans i l lon take 'S place a l pin 6 o f Z8. Con se",
+    "qu enll y, with each i n PU I pulse, the CUE ch\"nnel willa l te rna te between ON \" nd OFF."
+   ]
+  },
+  {
+   "heading": "CIRCUIT OESCR IPT ION",
+   "paragraphs": [
+    "This change of state can be brought about by any Ihree different methods:",
+    "a l Momentary operation of the CUEs witCh SW12 (C). b) Momentary ground closure o f the EXTERNAL CUE input a t 1'2, pin 11.",
+    "c ] Operation o f the \"o....e r pres.. \" switch SWl l, tce e tees l idea tt e n u a tor beyond the \" i nf i nIt e\" po s i lion.",
+    "The ON status o f the CUE chan n e i is indicated b y DS2. w n ic his d r i....en b y Cll.",
+    "Ana d d i tional fea lure enSureS that the CUE c h\" nn e l willa lwa ys switCh to OFF when e....e r the slide a ttenu a tor Is mo....e dOn to or aWIlY from the \" Infinite \" position, regardless of its priors tate. The control signal for Ih is action i sin i tia ted b y the change o f state o f the ATTENUATOR CUTs witch SW10. The result ant le....e l change, being either po siti....e or n egaliv e going, isp ro ce sse d through 27, Z9 and 210. The output produced atp i n 4 o r 210 willa l ways bean e ga tive going pulse of app ro \"i ma tely 500 mIl li seconds duration. CR ll passes this pulse to Z8, pin 8, thereby \" clear in g\" Ih e B_Se<:tion of the f lI pfl op, andre Sult ing in pin 11 o f Z8 to.. witch to l or remain a t) 0 volts. in l urns witch ing the CUEs witch 25 to OFF.",
+    "All logic control inputs are buffered 10 guard again s tsp u rio us noise and switch bounce.",
+    "Power Supply Decoupling",
+    "Powers u p ply de<:o u p l ing isp ro....i d e d b y R146 to R149 and C50 10 C53. CR16 and CR17 serve top reven tamp l i fie r damage int he event of supply voltage re....e e set • The d e<:oupl lng n etwor~ drops Ih e +/ -25 volts u p ply rails to a nom ina l voltage o f +/ _t 8 v o ln. C1 5",
+    "de<:oup les and filters the positives u p ply rail, resulting ina n",
+    "output of +t 2 volts to op erale the CMOS circuit r y. Ina ddi ton,",
+    "and 24 are further d e<:oupl ed b y RS4, RS5, C21 and C22."
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "M490J MfC iNPUT MODULE"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "Allen u ato r, oj. connector 1550 /A H35/ 100",
+    "cr delete 0 Capacitor sec Philips 222 2_6 30 _03 561",
+    "u F/25 u F/25",
+    "22 22-6 36 -7 047 9"
+   ]
+  },
+  {
+   "heading": "T3 9OC475 M02 5AS",
+   "paragraphs": [
+    "C6 2.2p F Philips 22 22_6 36_03 226 cr J. 9p F 222 2_6 36 _09 396",
+    "\" 0 uF / 6V 10 u F /25, Kernel TJ90E157M006A S TJ 9OCl 06 M0 25AS etc 220 uFl l0V TJ 90 F 2 27M0 10AS",
+    "CO, 150pF Philips 2222 -636-70151 cia 4.7pF 2222_636_09476 CD 220 u F/l0 v Kernet TJ90F227M010AS cu 4.7 u F/l0 V TJ908475MOlllAS CO> 4.7 uF/ l 0 V",
+    "ere 0.33 uF /35 V T J90AJJ4MOJ5A S ct r to u F/ 2S v T39OC106M025AS erato u F/ 2S v COO 4.7 p F P h:, lips"
+   ]
+  },
+  {
+   "heading": "00 U",
+   "paragraphs": [
+    "u F/ 2 S v",
+    "uF /25 V uF/1 0 V CZ' 33uF/1 0 V c zs 6600 pF",
+    "COO 2.2 u F/ 25 V T3908225M025A S C27 U u F/ l 0 V TJ90B 47 5M010 A5 C26 U u F/ l 0V C20 a.a uF/16 V",
+    "e. a u F/16 V",
+    "U uF/1 0V C J2 U uF /l0 V"
+   ]
+  }
+ ]
+}

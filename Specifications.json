@@ -1,0 +1,109 @@
+{
+ "module": "M490J",
+ "title": "M490J Mic INPUT_MQDULE",
+ "source": {
+  "file": "MANUALS/1983 - M490J - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "",
+   "items": [
+    {
+     "name": "Frequency response",
+     "text": "bcc Lfc Noise:",
+     "quantities": [],
+     "key": "frequency_response"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "",
+   "items": [
+    {
+     "name": "Source impedance",
+     "text": "150 ohms, balanced/unbalanced.",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      }
+     ],
+     "key": "source_impedance"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "750 ohms minimum",
+   "quantities": [
+    {
+     "value": 750,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "000 ohms, balanced (program circuits) _ 60,000 ohms_ balanced (cue circuits) OOO ohms balanced (post direct)",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "ohms"
+    },
+    {
+     "value": 60000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nominal _ +24 dBm maximum (equ va ent voltage 600 ohms /",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are phase lower number numbered pair phase with lower number other numbered pair."
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "(to operate CH ON, CH OFF Logic Logic 713 volts +16 +24 volts.",
+   "quantities": [
+    {
+     "value": 713,
+     "unit": "volts"
+    },
+    {
+     "value": 24,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "External control output",
+   "key": "external_control_output",
+   "text": "(Open collector current sink)"
+  }
+ ]
+}
