@@ -1,16 +1,16 @@
-# M490J · Input Pre Amps
+# M490J Mic Input Module · Input Pre Amps
 
 Ward-Beck Systems M490J, 1983|16. Wiki page: [M490J on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490J.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 198 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 199 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 34 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -195,18 +195,9 @@ U uF/1 0V C J2 U uF /l0 V
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd2VhTnhwV3dPd3M/view?resourcekey=0-cose9mWlImCddfnPQJIqvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd2VhTnhwV3dPd3M&resourcekey=0-cose9mWlImCddfnPQJIqvg" width="240" alt="1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA.jpg"></a><br><sub>1983|16 · 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA · <a href="MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20EAEN%20DEPREATED%20ENABIET%20PAM%20NINOL%20RISO-RISI%20CONTROLE%20IEVA%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTWdFS0MtT0tlZmc/view?resourcekey=0-5ghoWvsxmHytVXbBmeZn7Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTWdFS0MtT0tlZmc&resourcekey=0-5ghoWvsxmHytVXbBmeZn7Q" width="240" alt="1983 - M490J - 490-04-020 - IIGNA DUCDOSE IROM REMOLE IOCATLON RELATED THE DARILCULAR.jpg"></a><br><sub>1983|16 · 490-04-020 - IIGNA DUCDOSE IROM REMOLE IOCATLON RELATED THE DARILCULAR · <a href="MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20IIGNA%20DUCDOSE%20IROM%20REMOLE%20IOCATLON%20RELATED%20THE%20DARILCULAR%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mUEnW2UqLxXTamWjfaTOv9aPSDy6to8T/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mUEnW2UqLxXTamWjfaTOv9aPSDy6to8T" width="240" alt="19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES.jpg"></a><br><sub>19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1aME9HVnC1lwTkThIaRK-3XEx0YoXsGnJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1aME9HVnC1lwTkThIaRK-3XEx0YoXsGnJ" width="240" alt="19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE.jpg"></a><br><sub>19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd2VhTnhwV3dPd3M/view?resourcekey=0-cose9mWlImCddfnPQJIqvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd2VhTnhwV3dPd3M&resourcekey=0-cose9mWlImCddfnPQJIqvg" width="240" alt="1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA.jpg"></a><br><sub>1983|16 · 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA · <a href="MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20EAEN%20DEPREATED%20ENABIET%20PAM%20NINOL%20RISO-RISI%20CONTROLE%20IEVA%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTWdFS0MtT0tlZmc/view?resourcekey=0-5ghoWvsxmHytVXbBmeZn7Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTWdFS0MtT0tlZmc&resourcekey=0-5ghoWvsxmHytVXbBmeZn7Q" width="240" alt="1983 - M490J - 490-04-020 - IIGNA DUCDOSE IROM REMOLE IOCATLON RELATED THE DARILCULAR.jpg"></a><br><sub>1983|16 · 490-04-020 - IIGNA DUCDOSE IROM REMOLE IOCATLON RELATED THE DARILCULAR · <a href="MECHANICAL/1983%20-%20M490J%20-%20490-04-020%20-%20IIGNA%20DUCDOSE%20IROM%20REMOLE%20IOCATLON%20RELATED%20THE%20DARILCULAR%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mUEnW2UqLxXTamWjfaTOv9aPSDy6to8T/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mUEnW2UqLxXTamWjfaTOv9aPSDy6to8T" width="240" alt="19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES.jpg"></a><br><sub>19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES · <a href="MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%20490-03-035%20-%20FREE%20FROM%20MARKS%20AND%20SCRATCHES%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1aME9HVnC1lwTkThIaRK-3XEx0YoXsGnJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1aME9HVnC1lwTkThIaRK-3XEx0YoXsGnJ" width="240" alt="19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE.jpg"></a><br><sub>19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE · <a href="MECHANICAL/19xx%20-%20M490J%20-%20DOC%20-%2090-04-020%20-%20JIANI%20INDLLCANE%20ANLUS%20NIS%20SWITCH%20AISO%20IURN%20CUE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M490J.stl`](MECHANICAL/M490J.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490J)
-
-- **Size:** 43.83 × 268.58 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 11 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M490J - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M490J.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -283,6 +274,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1983 - M490J - Mic Input Module (2) p25.kicad_sch](KICAD/1983%20-%20M490J%20-%20Mic%20Input%20Module%20(2)%20p25.kicad_sch)
 - [1983 - M490J - Mic Input Module p25.kicad_sch](KICAD/1983%20-%20M490J%20-%20Mic%20Input%20Module%20p25.kicad_sch)
 - [M490J.kicad_sym](KICAD/M490J.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
