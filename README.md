@@ -1,6 +1,6 @@
 # M490J Mic Input Module · Input Pre Amps
 
-Ward-Beck Systems M490J, 1983|16. Wiki page: [M490J on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490J.html)
+Ward-Beck Systems M490J, 1983|16. Wiki page: [M490J on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

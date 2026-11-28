@@ -1,5 +1,5 @@
 # 1983 - M490J - 490-02-012 - MIC INPUT MODULE.jpg
-Wiki page: [M490J](../../../../PAGES/M490J.md)
+Wiki page: [M490J](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

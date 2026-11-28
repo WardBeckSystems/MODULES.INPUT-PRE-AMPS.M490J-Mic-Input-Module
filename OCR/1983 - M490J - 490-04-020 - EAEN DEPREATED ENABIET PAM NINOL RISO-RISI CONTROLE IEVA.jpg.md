@@ -1,5 +1,5 @@
 # 1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA.jpg
-Wiki page: [M490J](../../../../PAGES/M490J.md)
+Wiki page: [M490J](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

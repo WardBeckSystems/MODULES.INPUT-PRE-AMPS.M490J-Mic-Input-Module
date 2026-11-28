@@ -1,5 +1,5 @@
 # 1983 - M490J - Mic Input Module (2).pdf
-Wiki page: [M490J](../../../../PAGES/M490J.md)
+Wiki page: [M490J](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

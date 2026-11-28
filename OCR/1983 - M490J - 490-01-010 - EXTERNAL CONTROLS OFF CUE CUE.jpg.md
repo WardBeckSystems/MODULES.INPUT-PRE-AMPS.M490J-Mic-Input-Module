@@ -1,5 +1,5 @@
 # 1983 - M490J - 490-01-010 - EXTERNAL CONTROLS OFF CUE CUE.jpg
-Wiki page: [M490J](../../../../PAGES/M490J.md)
+Wiki page: [M490J](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

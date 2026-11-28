@@ -1,5 +1,5 @@
 # 1983 - M490J - P001 - Title Page.jpg
-Wiki page: [M490J](../../../../PAGES/M490J.md)
+Wiki page: [M490J](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE #1 DECEMBER 1983")
